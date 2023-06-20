@@ -17,50 +17,50 @@ export default [
   {
     to: "/dashboard",
     icon: mdiMonitor,
-    label: "Dashboard",
+    label: "用户数据",
   },
   {
     to: "/tables",
-    label: "Tables",
+    label: "土狗盯盘",
     icon: mdiTable,
   },
   {
     to: "/forms",
-    label: "Forms",
+    label: "钱包管理",
     icon: mdiSquareEditOutline,
   },
   {
     to: "/ui",
-    label: "UI",
+    label: "多功能转账",
     icon: mdiTelevisionGuide,
   },
   {
     to: "/responsive",
-    label: "Responsive",
+    label: "移动端功能",
     icon: mdiResponsive,
   },
   {
     to: "/",
-    label: "Styles",
+    label: "高级版本",
     icon: mdiPalette,
   },
   {
     to: "/profile",
-    label: "Profile",
+    label: "用户信息管理",
     icon: mdiAccountCircle,
   },
   {
     to: "/login",
-    label: "Login",
+    label: "登录设置",
     icon: mdiLock,
   },
   {
     to: "/error",
-    label: "Error",
+    label: "异常处理",
     icon: mdiAlertCircle,
   },
   {
-    label: "Dropdown",
+    label: "空投管理",
     icon: mdiViewList,
     menu: [
       {

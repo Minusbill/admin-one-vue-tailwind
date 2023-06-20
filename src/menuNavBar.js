@@ -15,22 +15,22 @@ import {
 export default [
   {
     icon: mdiMenu,
-    label: "Sample menu",
+    label: "版本菜单",
     menu: [
       {
         icon: mdiClockOutline,
-        label: "Item One",
+        label: "免费普通版",
       },
       {
         icon: mdiCloud,
-        label: "Item Two",
+        label: "付费高级版",
       },
       {
         isDivider: true,
       },
       {
         icon: mdiCrop,
-        label: "Item Last",
+        label: "测试版本",
       },
     ],
   },
